@@ -1,6 +1,11 @@
 # ml-intro
 An introduction to machine learning
 
+## Resources
+[A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) by Jake VanderPlas
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+
 ## Session 1
 - Introduction to machine learning following `notebooks/introduction.ipynb`
 - Supervised learning workflow following `notebooks/heart-disease-linear.ipynb`
