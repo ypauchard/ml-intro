@@ -13,6 +13,7 @@
 
 ### Supervised learning workflows
 `heart_disease-linear.ipynb`: Example workflow for supervised learning - classification using a linear model.
+`heart_disease-non-linear.ipynb`: Example workflow for supervised learning - classification using a non-linear model.
 
 ### Supporting information
 `numpy.ipynb`: Brief introduction to the Numpy libraries.
